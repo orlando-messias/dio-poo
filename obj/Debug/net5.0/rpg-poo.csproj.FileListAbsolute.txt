@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\rpg-poo\bin\Debug\net5.0\rpg-poo.exe
+C:\Users\PC\Documents\rpg-poo\bin\Debug\net5.0\rpg-poo.deps.json
+C:\Users\PC\Documents\rpg-poo\bin\Debug\net5.0\rpg-poo.runtimeconfig.json
+C:\Users\PC\Documents\rpg-poo\bin\Debug\net5.0\rpg-poo.runtimeconfig.dev.json
+C:\Users\PC\Documents\rpg-poo\bin\Debug\net5.0\rpg-poo.dll
+C:\Users\PC\Documents\rpg-poo\bin\Debug\net5.0\ref\rpg-poo.dll
+C:\Users\PC\Documents\rpg-poo\bin\Debug\net5.0\rpg-poo.pdb
+C:\Users\PC\Documents\rpg-poo\obj\Debug\net5.0\rpg-poo.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\rpg-poo\obj\Debug\net5.0\rpg-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\rpg-poo\obj\Debug\net5.0\rpg-poo.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\rpg-poo\obj\Debug\net5.0\rpg-poo.AssemblyInfo.cs
+C:\Users\PC\Documents\rpg-poo\obj\Debug\net5.0\rpg-poo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\rpg-poo\obj\Debug\net5.0\rpg-poo.dll
+C:\Users\PC\Documents\rpg-poo\obj\Debug\net5.0\ref\rpg-poo.dll
+C:\Users\PC\Documents\rpg-poo\obj\Debug\net5.0\rpg-poo.pdb
+C:\Users\PC\Documents\rpg-poo\obj\Debug\net5.0\rpg-poo.genruntimeconfig.cache
